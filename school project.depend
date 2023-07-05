@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1676838026 source:d:\embedded\embedded course\school project\school project\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"types & macros.h"
+
+1676838511 source:d:\embedded\embedded course\school project\school project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"types & macros.h"
+
+1676838511 d:\embedded\embedded course\school project\school project\types & macros.h
+
